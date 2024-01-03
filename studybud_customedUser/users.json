@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "bio": "Web Developer passionate about creating meaningful applications.",
+        "username": "alice_coder"
+    },
+    {
+        "name": "Bob",
+        "email": "bob@example.com",
+        "bio": "Data Scientist exploring the world of machine learning and AI.",
+        "username": "bob_data_scientist"
+    },
+    {
+        "name": "Charlie",
+        "email": "charlie@example.com",
+        "bio": "UX/UI Designer with a focus on creating beautiful and user-friendly interfaces.",
+        "username": "charlie_designer"
+    },
+    {
+        "name": "David",
+        "email": "david@example.com",
+        "bio": "Backend Developer building robust and scalable server-side applications.",
+        "username": "david_backend_dev"
+    },
+    {
+        "name": "Eva",
+        "email": "eva@example.com",
+        "bio": "Frontend Developer passionate about creating responsive and interactive user interfaces.",
+        "username": "eva_frontend_dev"
+    },
+    {
+        "name": "Frank",
+        "email": "frank@example.com",
+        "bio": "DevOps Engineer automating and streamlining the deployment process.",
+        "username": "frank_devops"
+    },
+    {
+        "name": "Grace",
+        "email": "grace@example.com",
+        "bio": "Mobile App Developer specializing in Android and iOS development.",
+        "username": "grace_mobile_dev"
+    },
+    {
+        "name": "Hank",
+        "email": "hank@example.com",
+        "bio": "Full Stack Developer with a passion for creating end-to-end solutions.",
+        "username": "hank_fullstack_dev"
+    },
+    {
+        "name": "Ivy",
+        "email": "ivy@example.com",
+        "bio": "Software Engineer exploring the world of artificial intelligence and robotics.",
+        "username": "ivy_ai_engineer"
+    },
+    {
+        "name": "Jack",
+        "email": "jack@example.com",
+        "bio": "Game Developer creating immersive and engaging gaming experiences.",
+        "username": "jack_game_dev"
+    }
+]
